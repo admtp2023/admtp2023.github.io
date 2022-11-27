@@ -1,23 +1,31 @@
 ---
-title: "Adaptive Designs and Multiple Testing Procedures Workshop 2023"
+title: "Adaptive Designs and Multiple Testing Procedures Workshop"
+date: "19th - 21st April, 2023"
 ---
 
-![Pixabay Images](ADMTP.png)
+```{r figurename, echo=FALSE, fig.cap="Pixabay Images", out.width = '60%', fig.align='center'}
+knitr::include_graphics("ADMTP.png")
+```
 
-We are delighted to announce the next annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS). 
 
-**Where:** Novartis Campus, Basel, Switzerland.
+We are delighted to announce the next annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS). The workshop will also be held as a joint event with the Basel Biometric Society.
 
-**When:** 19th – 21st April, 2023
+**Where:** Novartis Campus, Basel, Switzerland. 
+Please note that the workshop is planned as a **face-to-face event**, with no option to participate virtually.
 
-[Registration](https://forms.gle/w2LLYeVkPhzCstrj6)
+**When:** The workshop will run from 19th April, 2023 (registration starting 12:30, welcome at 13:30) until 21st April, 2023 (closing at 12:00)
 
-[Abstract Submission](https://forms.gle/4ugvKo4Ueg6Pj7wA6)
+**Invited Speakers** We are delighted to announce that Dr. Vlad Dragalin (Janssen) and Prof. Chris Jennison (University of Bath) will present as invited speakers. The workshop will also feature an invited session on platform trials, with contributions from members of the EU-PEARL IMI Project.
 
-**Local Organizing Committee:** E Glimm, L Hampson, D Magirr, A Nguyen Duc, R Peck
+**Registration** Registration for the workshop is **now open**, and will remain open until 31st March, 2023. Please register by [completing this form](https://forms.gle/w2LLYeVkPhzCstrj6). 
+
+**Abstract Submission** Abstract submission is **now open** until 10th February, 2023. Please submit your abstract [using this form](https://forms.gle/4ugvKo4Ueg6Pj7wA6).
+
+**Local Organizing Committee:** Marisa Bacchi, Ekkehard Glimm, Lisa Hampson, Eliane Imfeld, Dominic Magirr, Anh Nguyen Duc, Robbie Peck
 
 
 ![](ROeS.png){width=13%}
-![](ibs.png)
+![](IBS_DR.png){width=13%}
+![](BSS_logo.png)
 
 
