@@ -6,6 +6,7 @@
 knitr::include_graphics("ADMTP.png")
 ```
 
+
 <style type="text/css">
   body{
   font-size: 12pt;
@@ -20,9 +21,10 @@ We are delighted to announce the next annual workshop of the joint working group
 
 **Invited Speakers:** We are delighted to announce that **Prof. Chris Jennison** (University of Bath) and **Dr. Tobias Mielke** (Janssen) will present as invited speakers. The workshop will also feature an invited session on platform trials, with contributions from the EU-PEARL IMI Project.
 
-**Registration:** Registration for the workshop is **now open** until 31st March, 2023. Please register by [<span style="color: blue"> **completing this form**</span>](https://forms.gle/w2LLYeVkPhzCstrj6). 
 
-**Abstract Submission:** Abstract submission is **now open** until 10th February, 2023. Please submit [<span style="color: blue">**using this form**</span>](https://forms.gle/4ugvKo4Ueg6Pj7wA6).
+**Registration:** Since we are nearing room capacity, if you are interested in registering, please contact [Lisa Hampson](mailto:lisa.hampson@novartis.com) or [Eliane Imfeld](mailto:eliane.imfeld@novartis.com)) to express your interest in the workshop.
+
+**Abstract submission** Submission of abstracts closed on 10th February, 2023
 
 **Local Organizing Committee:** Marisa Bacchi, Ekkehard Glimm, Lisa Hampson, Eliane Imfeld, Dominic Magirr, Anh Nguyen Duc, Robbie Peck
 

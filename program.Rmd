@@ -29,11 +29,9 @@ Tobias works as Senior Scientific Director in Janssen’s internal statistical c
 
 # EU-PEARL Session on Platform Trials
 
-
-- *Optimal allocation strategies in platform trials* by Marta Bofill Roig (Medical University of Vienna)
 - *NCC: An R-package for analysis and simulation of platform trials with non-concurrent controls* by Pavla Krotka (Medical University of Vienna)
-- *TBA* by Quynh Lan Nguyen (Paul-Ehrlich-Institut
-)
+- *Optimal allocation strategies in platform trials* by Marta Bofill Roig (Medical University of Vienna)
+- *TBA* by Quynh Lan Nguyen (Paul-Ehrlich-Institut)
 -	*Looking forward and benefiting from the past: Sample size estimation for new arms in platform trials* by Sonja Zehetmayer (Medical University of Vienna)
 
 

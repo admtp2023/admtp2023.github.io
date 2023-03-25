@@ -5,5 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Program"
+    - text: "Program overview"
+      href: data/ADMTP Workshop 2023_Scientific Overview_FINAL.pdf
+    - text: "Invited sessions"
       href: program.html
