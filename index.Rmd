@@ -11,7 +11,7 @@ knitr::include_graphics("ADMTP.png")
   body{
   font-size: 12pt;
 }
-</style>
+</style> 
 
 We are delighted to announce the next annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS). The workshop will be organized jointly with the Basel Biometric Society.
 
