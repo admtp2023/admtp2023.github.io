@@ -11,3 +11,5 @@ navbar:
       href: program.html
     - text: "Workshop booklet"
       href: ADMTP_Basel2023_Booklet.pdf
+    - text: "Presentations"
+      href: presentations.html
